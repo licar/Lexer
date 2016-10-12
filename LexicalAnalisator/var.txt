@@ -1,0 +1,3 @@
+intarray INTARRAY
+const CONSTANT
+int INTEGER

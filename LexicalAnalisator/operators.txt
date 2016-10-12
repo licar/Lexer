@@ -1,0 +1,17 @@
+program PROGRAM
+do DO
+var VAR
+begin BEGIN
+end END
+read READ
+write WRITE
+if IF 
+then THEN
+else ELSE
+while WHILE
+bool BOOL
+math MATH
+endvar ENDVAR
+endif ENDIF
+endwhile ENDWHILE
+endprogram ENDPROGRAM

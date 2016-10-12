@@ -1,0 +1,38 @@
+program MyFirstProgram
+var
+	price : int;
+	length : int;
+	array: intarray[10];
+endvar
+begin
+	read >> price;
+	read >> length;
+	write << price;
+	write << array[10];
+	
+	if (price == 10)
+	then
+		begin
+			price = math ( price + 1 );
+		end
+	endif
+	
+	if bool (price == 10)
+	then
+		begin
+			price = math (price + 1);
+		end
+	elseif bool (price > length)
+	else
+		begin
+			price = math (price * 1 - 2 / length);
+		end
+	endif
+	
+	while bool (price !! 0)
+	do
+		begin
+		end
+	endwhile
+end
+endprogram

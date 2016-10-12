@@ -1,0 +1,13 @@
+>> STREAM_R
+<< STREAM_L
+<= LE_OP
+>= GE_OP
+== EQ_OP
+!! NE_OP
+= ASSIGN_OP
+- MINUS
++ PLUS
+* MULT
+/ DIV
+< CHEVRON_L
+> CHEVRON_R
